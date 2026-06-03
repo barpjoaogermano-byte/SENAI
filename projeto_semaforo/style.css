@@ -1,0 +1,25 @@
+.quadro {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+p {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+}
+
+.quadro2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.quadro3 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
