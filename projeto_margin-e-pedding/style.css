@@ -1,0 +1,38 @@
+.fundo {
+    background-color: #1A1A2E;
+}
+
+h1 {
+    color: #00D4FF;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.first {
+    color: white;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 30px;
+    background-color: #1565C0;
+}
+
+.second {
+    color: white;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 30px;
+    background-color: #2E7D32;
+}
+
+.third {
+   color: white;
+   font-weight: 700;
+   font-weight: bold;
+   font-size: 16px;
+   margin: 20px;
+   padding: 20px;
+   background-color: #E65100;
+}

@@ -1,0 +1,24 @@
+#first {
+    border-radius: 20px;
+    background-color: #353535;
+    padding: 20px;
+    width: 260px;
+}
+
+#third {
+    color: aqua;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 12px
+}
+
+#second {
+    color: aqua;
+    font-weight: 400;
+    font-size: 16px;
+}
+p {
+    color: white;
+    font-weight: 400;
+    font-size: 12px;
+}
