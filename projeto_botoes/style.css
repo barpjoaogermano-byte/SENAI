@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.download {
+    padding: 10px 25px;
+    background-color: white;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 10px;
+}
+.download:hover {
+    background-color: black;
+    color: white;
+}
+
+.acessar {
+    padding: 10px 25px;
+    background-color: #80E8FF;
+    font-weight: 700;
+    font-size: 12px;
+    border-radius: 16px;
+    border: none;
+    margin: 10px;
+}
+.acessar:hover {
+    background-color: #9EEDFF;
+}
+
+.comprar {
+    background-color: #41FF6A;
+    padding: 10px 25px;
+    border-radius: 16px;
+    border: none;
+    font-weight: 700;
+    font-size: 12px;
+}
+.comprar:hover {
+    background-color: #8BFFA4;
+}
+
+.login {
+    background-color: #FF00C8;
+    color: white;
+    border: 2px solid #FF00C8;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 12px;
+}
+.login:hover {
+    background-color: white;
+    color: #FF00C8;
+}
+
+.acessar2 {
+    padding: 10px 25px;
+    border: 2px solid #FF0000;
+    border-radius: 30px;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 12px;
+}
+.acessar2:hover {
+    background-color: #FF0000;
+    color: white;
+}
+
+.login2 {
+    padding: 10px 25px;
+    border: 2px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+    border-bottom: 4px solid black;
+}
+.login2:hover {
+    background-color: #525252;
+    color: white;
+}
+
+.saiba {
+    padding: 10px 25px;
+    border: none;
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+.saiba:hover {
+    color: #626262;
+    border: none;
+    border-bottom: 2px solid #626262;
+}
+
+.pesquisar {
+    border: 1px solid black;
+    border-left: 4px solid black;
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: #FAC02C;
+    font-weight: bold
+}
+.pesquisar:hover {
+    background-color: white;
+    border-color: #FAC02C;
+}
+
+.login3 {
+    border: 1px solid #005810;
+    border-radius: 20px 0px;
+    padding: 10px 25px;
+    background-color: #15FF00;
+    font-weight: bold;
+    color: #005810;
+}
+.login3:hover {
+    background-color: #005810;
+    color: #15FF00;
+    border: none;
+}
+
+.acessar3 {
+    padding: 10px 25px;
+    color: #640069;
+    font-weight: bold;
+    border: 2px dashed #640069;
+    border-radius: 15px;
+    background-color: white;
+}
+.acessar3:hover {
+    background-color: #640069;
+    color: white;
+}

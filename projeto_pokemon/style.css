@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.first {
+    background-color: #FFD900;
+    border-radius: 15px;
+    padding: 20px 10px;
+    width: 300px;
+}
+
+.pik {
+    text-align: center;
+}
+
+.second {
+    background-color: #FAE25B;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.third {
+    color: #DFBD00;
+    text-align: center;
+}
